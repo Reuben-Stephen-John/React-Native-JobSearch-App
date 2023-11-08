@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "React-Native-JobSearch",
-    "slug": "React-Native-JobSearch"
+    "slug": "React-Native-JobSearch",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f225b030-2dc5-4d2f-949b-e8eee37e5af4"
+      }
+    },
+    "android": {
+      "package": "com.reubenstephenjohn.ReactNativeJobSearch"
+    }
   }
 }
